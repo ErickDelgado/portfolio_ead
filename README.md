@@ -16,7 +16,7 @@ HTML5, ES6, CSS, jQuery, Gulp, Hover.CSS, Particle.JS, NPM, AOS, Bootstrap, Mobi
 
 -update history ui/ux
 
--integration of blog
+-Integration of blog
 
 
 ## Deployed link
