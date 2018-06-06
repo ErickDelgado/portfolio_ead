@@ -21,4 +21,4 @@ HTML5, ES6, CSS, jQuery, Gulp, Hover.CSS, Particle.JS, NPM, AOS, Bootstrap, Mobi
 
 ## Deployed link
 
-https://erickdelgado.github.io/portfolio/
+https://erickdelgado.github.io/portfolio_ead/
